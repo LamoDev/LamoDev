@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNrY25pa3kydmY2bWZubG5mZXR3dnFkanE5dnNxYjgxYTBiMThwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+</p>
+
 <h1 align="center">🙋🏻‍♀️ Hi, I'm Lamyaa</h1>
 
 <p align="center">
@@ -26,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=figma" height="50" />
     <img src="https://skillicons.dev/icons?i=vite" height="50" />
     <img src="https://skillicons.dev/icons?i=postman" height="50" />
-    <img src="https://skillicons.dev/icons?i=notion" height="50" />
+        <img src="https://skillicons.dev/icons?i=notion" height="50" />
 
   </marquee>
 </p>
@@ -54,6 +58,6 @@
 
 <!---
 LamoDev/LamoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You c
+
 
