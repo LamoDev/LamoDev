@@ -1,7 +1,7 @@
 <h1 align="center">🙋🏻‍♀️ Hi, I'm Lamyaa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77C7C&size=24&center=true&vCenter=true&width=500&lines=Front-end+Developer+💻;Always+Eager+to+Learn+and+Grow;Passionate+About+UI+%26+UX" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=c59eff&size=24&center=true&vCenter=true&width=500&lines=Front-end+Developer+💻;Passionate+About+UI+%26+UX" />
 </p>
 
 ---
@@ -10,10 +10,11 @@
 - 👩🏻‍💻 I’m interested in **Front-end Development**
 - 🌱 Always **learning & growing** to improve my skills
 - 💡 Love building **clean, modern UIs**
+- 📱 I’m currently learning **React Native**
 
 ---
 
-### 🛠️ My Skills
+<h3 align="center">⚒️ Languages and Tools</h3>
 <p align="center">
   <marquee behavior="alternate" direction="left" scrollamount="5">
     <img src="https://skillicons.dev/icons?i=js" height="50" />
@@ -22,14 +23,31 @@
     <img src="https://skillicons.dev/icons?i=html" height="50" />
     <img src="https://skillicons.dev/icons?i=css" height="50" />
     <img src="https://skillicons.dev/icons?i=github" height="50" />
+    <img src="https://skillicons.dev/icons?i=figma" height="50" />
+    <img src="https://skillicons.dev/icons?i=vite" height="50" />
+    <img src="https://skillicons.dev/icons?i=postman" height="50" />
+    <img src="https://skillicons.dev/icons?i=notion" height="50" />
+
   </marquee>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LamoDev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamodev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+<h3 align="center">💬 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/lamyaa-almutairi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:lamyahalmutairi@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
 </p>
 
 ---
@@ -38,3 +56,4 @@
 LamoDev/LamoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
